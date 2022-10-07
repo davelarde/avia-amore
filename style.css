@@ -71,3 +71,18 @@ main > * {
 /* media queries */
 
 /* YOUR CODE HERE */
+
+@media screen and (max-width: 500px){
+  header{
+    flex-direction: column;
+    align-items: flex-start;
+    
+  }
+  h1{
+    margin-bottom: 2rem;
+  }
+}
+
+  
+  
+
