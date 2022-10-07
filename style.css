@@ -81,6 +81,9 @@ main > * {
   h1{
     margin-bottom: 2rem;
   }
+  .airplane-card{
+    width: 20rem;
+  }
 }
 
   
